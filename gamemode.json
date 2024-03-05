@@ -1,7 +1,7 @@
 {
   "Name": "Test Tdm",
   "Description": "тестирую (zttp)",
-  "StartClientVersion": 532,
+  "StartClientVersion": 5338,
   "MapFilter": {
     "IsBlank": false,
     "HasParcourEnd": false
